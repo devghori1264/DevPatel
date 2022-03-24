@@ -1,0 +1,9 @@
+/*
+This is a basic java hello world programme.
+*/
+
+class main{
+public static void main(String[] args){
+System.out.println("Hello World");
+}
+}
